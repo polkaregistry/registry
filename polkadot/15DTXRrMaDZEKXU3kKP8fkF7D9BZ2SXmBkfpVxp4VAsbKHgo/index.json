@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "address": "15DTXRrMaDZEKXU3kKP8fkF7D9BZ2SXmBkfpVxp4VAsbKHgo",
+    "network": "polkadot",
+    "license": "CC-BY-NC-ND-4.0",
+    "proofs": {
+        "eeid": "local:eeid.asice"
+    }
+}
