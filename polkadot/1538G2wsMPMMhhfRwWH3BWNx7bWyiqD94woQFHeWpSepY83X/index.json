@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "address": "1538G2wsMPMMhhfRwWH3BWNx7bWyiqD94woQFHeWpSepY83X",
+    "network": "polkadot",
+    "license": "CC-BY-NC-ND-4.0",
+    "proofs": {
+        "matrix": "matrix:r/polkaregistryproofs:matrix.org/e/$5bvJA9g8FTmxq0EbLKBT4VJf7U4fhfyWou40wc1V01c"
+    }
+}
