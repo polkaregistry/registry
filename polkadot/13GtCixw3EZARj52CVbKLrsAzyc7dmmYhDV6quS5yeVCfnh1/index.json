@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "address": "13GtCixw3EZARj52CVbKLrsAzyc7dmmYhDV6quS5yeVCfnh1",
+    "network": "polkadot",
+    "license": "CC-BY-NC-ND-4.0",
+    "proofs": {
+        "github": "https://gist.githubusercontent.com/radiumb/82f26f47b9e48153eff1483907fa1d37/raw/43dbb481fb4ba94cb401f157c150046039f9854e/polkaregistry.txt",
+        "website": "https://radiumblock.com/.well-known/polkaregistry.txt",
+        "twitter": "https://twitter.com/RadiumBlock/status/1466812045848940549"
+    }
+}
