@@ -1,10 +1,10 @@
 {
-    "version": 1，
+    "version": 1,
     "address": "1xw4FcoC9CS6e575hKF96FKkvF2pML9bFPY4nb5CLEV1Awy",
     "network": "polkadot",
     "license": "CC-BY-NC-ND-4.0",
     "proofs": {
-	"github": "https://gist.github.com/aircable/77db02d1ee2eead9229d2b81867fb697"
+	"github": "https://gist.github.com/aircable/77db02d1ee2eead9229d2b81867fb697",
 	"website": "https://kienhoefer.com/.well-known/polkaregistry.txt"
     }
 }
